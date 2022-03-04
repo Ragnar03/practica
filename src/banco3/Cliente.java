@@ -1,6 +1,6 @@
 package banco3;
 
-
+//Hola
 
 
 
@@ -29,4 +29,9 @@ public class Cliente implements Serializable{
             
     public String direccionCompleta() { return direccion + ", " + localidad; }
 
+    public void ejemplo(){
+        int d = 0;
+        
+        d +=1;
+}
 }
